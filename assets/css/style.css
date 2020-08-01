@@ -1,13 +1,15 @@
+/* Sizing of Navigation Ribbon at top of page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Selecting background color of page */
 body {
     background-color: #d9dcd6;
 }
-
+/* Start of Navigation Ribbon characteristics */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,11 +47,13 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* End of Navigation Ribbon characteristics */
+/* Defining standard text size */
 p {
     font-size: 16px;
 }
 
+/* Hero image defined */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +63,28 @@ p {
     background-position: center;
 }
 
+/* Start of Offered Products styling */
+/* Positioning of ".search-engine-optimization" and ".social-media-marketing" images */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Positioning of ".online-reputation-management" image */
 .float-right {
     float: right;
     margin-left: 25px;
 }
+
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/* End of Offered Products styling */
 
+/* Start of Benefit List styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +143,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* End of Benefit List styling */
+/* Start of Offered Products styling 2 */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +198,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* End of Offered Products 2 */
 
+/* Start of Footer styling - removed from index.html */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +211,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* End of Footter stlying */
