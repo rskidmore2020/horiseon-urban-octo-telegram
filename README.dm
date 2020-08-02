@@ -5,5 +5,5 @@ customer know what kind of benefits to expect if they choose to use
 the services of Horiseon Marketing.
 
  
-![Horiseon Ssreenshot](assets.images/horiseon-screenshot)
+![Horiseon Ssreenshot](assets.images/horiseon-screenshot.png)
 [Horseon Urban Octo Telegram Marketing campaign page](https://rskidmore2020.github.io/horiseon-urban-octo-telegram/)
